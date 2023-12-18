@@ -11,7 +11,10 @@ COPY AMP.jpeg /usr/share/nginx/html/backgroundimages
 COPY Jenkins.png /usr/share/nginx/html/backgroundimages
 COPY MainBackground.jpg /usr/share/nginx/html/backgroundimages
 COPY MainBackground.png /usr/share/nginx/html/backgroundimages
+COPY Miami.jpg /usr/share/nginx/html/backgroundimages
 COPY devops.png /usr/share/nginx/html/backgroundimages
 COPY kuma.png /usr/share/nginx/html/backgroundimages
+COPY maverick.jpg /usr/share/nginx/html/backgroundimages
+COPY maverick2.jpg /usr/share/nginx/html/backgroundimages
 COPY trudesk.png /usr/share/nginx/html/backgroundimages
 COPY wordpress.png /usr/share/nginx/html/backgroundimages
